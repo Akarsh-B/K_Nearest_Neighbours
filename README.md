@@ -15,7 +15,7 @@ Packages Used :-
 How to Run the program :-
 ----------------------
 1. Place the file name iris.csv in the same folder as the code
-2. Run the Python file iris1NNboundary.py using any of the Python interpreter with Python version > 3 (3.6 or 3.7) [Command: python3 iriskNNboundary.py]
+2. Run the Python file iriskNNboundary.py using any of the Python interpreter with Python version > 3 (3.6 or 3.7) [Command: python3 iriskNNboundary.py]
 3. Examine the Decision Boundary plotted for different values of the labels flipped and the Errror rates and misclassifications printed in the command line using Leave one out Cross Validation procedure
 4. Matplotlib will plot different decisions boundaries. Close the plot after viewing to terminate the program
 
